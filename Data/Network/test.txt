@@ -1,0 +1,99 @@
+2,Bugün nasılsın?
+2,kendini tanıtmaya ne dersin 
+2,selamünaleyküm müslüman
+2,hangi yemekleri seversin
+2,hobilerin var mı
+1,Bana şarkı açar mısın?
+1,ŞU an neredeyim
+0,Okul bilgimi değişitirmek istiyorum 
+0,saat kaç
+1,sultan ahmete nasıl gidebilirim
+0,benim işim ne
+0,yılın hangi günündeyiz
+1,kedi fotoğrafı açarmısın
+1,serdar ortaç poşet şarkısını açarmısın
+0,nerede yaşıyoruM?
+2,biraz KEyifsizim
+2,Karanlıktan korkarım
+2,sa
+1,SAKARYA ÜNİVERSİTESİNE NASIL GİDEBİLİRİM
+0,yaş bilgimi güncelle
+0,yaşadığım ŞEHri  değiştir.
+0,Tarihi söyler misin?
+1,Cumhuriyetin ilanın tarihini arar mısın ?
+1,çikolatalı pasta tarifi açar mısın?
+2,bugün hava Çok güzel,
+2,kitap okumayı çok severim ,özellikle tarih türünde
+2,iyi akşamlar
+2,yemekte ne yesem acaba?
+2,Komik bir fıkraya ne dersin 
+2,güneşe baktığımda hapşırıyorum bu bir alerjimi?
+2,senin en sevdiğin renk ne?
+2,mükemmel olmak için ne yapmalıyım 
+0,doğum günüm
+0,işim ne 
+0,sistemi kapat
+0,uyu
+0,saat kaç
+0,nerede okuYORUM?
+0,en sevdiğim parçayı çal.
+0,Neşet ERTAŞ çal
+0,logo ara
+2,bırak el ne derse desin 
+2,senin sesine benzesin
+1,Bilgisayar Mühendisliği puanları ara
+2,SEDA kendini tanıt
+2,adın ne
+2,naber?
+2,bugüne 10 üzerinden puanın kaç
+2,dans etmeyi sever misin ?
+2,güne nasıl başladın 
+2,iyi günler
+2,nefret ettiğin Havalar
+2,hangi mevsimin güzel olduğunu düşünüyorsun 
+2,bir Bakmışsın yıllar grçmiş çoktan!
+0,Hangi okulda okuyorum?
+1,2021 bahar trendlerini açar mısın?
+1,haberleri aç
+2,meyve suyunu neyli seversin
+2,İnsan gerçekten hayret ediyor!
+2,iyi bayramlar
+2,seni dinliyorum 
+0,hangi işi yapıyorum
+0,okul adı
+1,TOKAT hangi bölgede ara
+2,İnsanalar neden ağlar
+0,adımı değiştir
+2,zamanı harcadın boşu boşuna
+2,yalancı
+2,bugün yeni bir kitaba başladım
+2,projemi bititrmeme az kaldı.
+0,10 adımda nasıl yaratıcı olunur  ara
+2,okul neden var
+2,eğer inekler çikolata yerse sütleri çikolatalı olur mu?
+2,zebraların çizgileri beyaz üzerine siyah mıdır yoksa siyah üzerine beyaz mıdır?
+1,youtube aç
+2,sınava hazırlanıyorum 
+2,çok sıkıldım
+2,çok mutluyum
+2,sinirliyim ve gerginim
+2,dışarıya  çıkmayı ÖZLEDİM .
+2,Bol şans.
+2,kendine iyi bak
+2,görüşürüz
+2,Ooooo kral
+2,spora başlıyorum karar verdim 
+2,Çok güzelsin ama senden çok var
+2,çok afedersin,
+2,SELAM
+1,hareketli bi şeyler çal
+1,derin öğrenme için örnekler ara 
+0,kendini kapat
+2,her şeyi bana BIraK.
+1,Türk Tarihi kitaplarını aç
+2,Çay insanı mısın kahve insanı mı?
+2,Darlandım.
+2,Bu devirde kimse SULTAN değil
+2,SENİ SEVİYORUM
+2,Umutlarım hayal denen ceninlerin naaşı dolu…
+2,sonunda BİTTİ

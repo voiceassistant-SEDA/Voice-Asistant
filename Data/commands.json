@@ -1,0 +1,46 @@
+{
+    "sohbetCumleleri":{
+        "nasilsin":["nasılsın","naber","ne haber","napıyorsun","nasıl gidiyor","napıyosun"],
+        "tesekkur":["teşekkürler"],
+        "iyiyim":["ben de çok iyiyim","iyiyim teşekkür ederim","iyiyim"]
+    },
+    "nasilsindonusCumleleri":{
+        "donus": ["iyiyim sen","çok iyiyim","biraz keyifsizim sen","teşekkür ederim sen nasılsın"]
+    },
+    "update":{
+        "isimguncelle":["isim güncelle","ismimi değiştir","benim adım"],
+        "yasguncelle":["yaşımı güncelle","yaş güncelle","güncelle yaş","yeni yaşım"],
+        "sehirguncelle":["yaşadığım yeri değiştir","şehir güncelle","yeni şehir"],
+        "dogumtarihiguncelle":["doğum tarihi güncelle","doğum günü değiştir","doğum günü"],
+        "okulguncelle":["okul güncelle","okul adı değiştir","okul adı","okul bilgilerimi değiştir"],
+        "meslekguncelle":["meslek güncelle","yeni mesleğim"]
+    },
+    "getInfo":{
+        "meslekgetir":["mesleğim nedir","hangi işi yapıyorum","meslek","ne iş yapıyorum","işim ne"],
+        "yasgetir":["yaşım kaç","kaç yaşındayım","yaşımı söyle"],
+        "sehirgetir":["nerede yaşıyorum","nerde yaşıyorum","yaşadığım şehir"],
+        "dogumtarihigetir":["doğum tarihim","doğum günümü söyle","ne zaman doğdum"],
+        "okulbilgisigetir":["nerde okuyorum","okul adı","okulum","okul bilgilerim"]
+    },
+    "asistanInfo":{
+        "kendinitanit":["seda kendini tanıt","kendini tanıt","kimsin sen","seni tanıyalım","kimsin sen"],
+        "isimsoru" : ["ismin ne","ismin","adın ne","adın"]
+    },
+    "timeFunctions":{
+        "saatSoru": ["saat kaç","saati söyle","şu an saat kaç","zaman","saat"],
+        "tarihSoru":["tarihi söyle", "bugün günlerden ne", "ayın kaçı","bugün ayın kaçı","bugünün tarihi","tarih"],
+        "alarm": ["alarm kur"]
+    },
+    "quickSearch":{
+        "havaDurumuSoru":["bugün hava nasıl","hava durumunu göster","hava nasıl"]
+    },
+    "search":{
+        "konumAra":["git"],
+        "webAra":["ara","aç"],
+        "musicAra":["çal"],
+        "ceviriYap":["çevir"]
+    },
+    "close":{
+        "kapat":["kapat","sistemi kapat","uyu","kendini kapat"]
+    }
+}

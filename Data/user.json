@@ -1,0 +1,17 @@
+{
+    "name": "Sırma",
+    "surname": "Kalender",
+    "age": "22",
+    "birthdate": "27/11/1998",
+    "school": {
+        "university": "Sakarya Üniversitesi",
+        "faculty": "Bilgisayar ve Bilişim Bilimleri Fakültesi",
+        "department": "Bilgisayar Mühensiliği"
+    },
+    "job": "Öğrenci",
+    "hometown": {
+        "country": "Türkiye",
+        "city": "İstanbul",
+        "district": "Zile"
+    }
+}
